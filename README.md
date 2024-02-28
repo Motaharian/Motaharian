@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Motaharian
-- 👀 I’m interested in website designer.
-- 🌱 I’m currently learning Web Design.
-- 💞️ I’m looking to collaborate on Front-end Project.
+- 👀 I’m interested in Mobile Programming.
+- 🌱 I’m currently learning Kotlin.
+- 💞️ I’m looking to collaborate on Android Project.
 - 📫 Contact me via my gmail address: MiladMotaharian@gmail.com 
 <hr>
 - 🧑‍💻 You can find me on social networks with these addresses : <br> Whatsapp : https://wa.me/989140726365 | Telegram : https://t.me/Motahariane
